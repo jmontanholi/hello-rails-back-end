@@ -1,24 +1,47 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Hello Rails-React
 
-Things you may want to cover:
+> This is a simple hello world project meant to teach how to use rails-react in two different projects
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Ruby on Rails
+- React
+- Redux
+- VScode
+- Git & GitHub
 
-* Configuration
+## Getting Started
 
-* Database creation
+To get a local copy up and running follow these simple example steps.
 
-* Database initialization
+- Go to a repository on your local machine where you want to clone this repo
+- run `git clone https://github.com/jmontanholi/hello-rails-back-end.git`
+- Open the repo
+- Run these commands in order
+   - `bundle install`
+   - `rails db:create` (maybe you will need to change the database.yml file)
+   - `rails db:migrate`
+   - `rails server`
+- Go to the react project [here](https://github.com/jmontanholi/hello-react-front-end)
+- run `git clone https://github.com/jmontanholi/hello-react-front-end.git`
+- run `npm start` or `yarn start`
+- Open the server in your browser
+## Authors
 
-* How to run the test suite
+👤 **João Vítor Montanholi Nunes**
 
-* Services (job queues, cache servers, search engines, etc.)
+- GitHub: [jmontanholi](https://github.com/jmontanholi)
+- Twitter: [MontanholiNunes](https://twitter.com/MontanholiNunes)
+- LinkedIn: [Joao vitor montanholi](https://www.linkedin.com/in/joaovitormontanholi/)
 
-* Deployment instructions
+## 🤝 Contributing
 
-* ...
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
