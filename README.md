@@ -28,7 +28,7 @@ To get a local copy up and running follow these simple example steps.
 - run `git clone https://github.com/jmontanholi/hello-react-front-end.git`
 - run `npm start` or `yarn start`
 - Open the server in your browser
-## Authors
+## Author
 
 👤 **João Vítor Montanholi Nunes**
 
